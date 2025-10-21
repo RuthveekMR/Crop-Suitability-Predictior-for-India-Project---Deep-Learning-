@@ -4,4 +4,5 @@ folium
 tensorflow
 joblib
 scipy
+scikit-learn
 pandas
