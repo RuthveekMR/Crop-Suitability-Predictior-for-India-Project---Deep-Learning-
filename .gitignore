@@ -1,0 +1,20 @@
+
+# Ignore datasets
+data/
+Source Files/
+
+# ML / DL files
+*.csv
+*.nc
+*.npy
+*.pkl
+*.h5
+*.pt
+*.joblib
+*.GRD
+*.ctl
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
